@@ -1,4 +1,5 @@
 # 💫 Hi 👋, I'm Vinay Rai
+![Profile views](https://komarev.com/ghpvc/?username=Vinay-Rai&color=blue)
 **Student at LNCT Group of Colleges | Python | DSA | Machine Learning | Linux | Full Stack developer | MERN**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinay-rai-24vr) 
